@@ -1,2 +1,3 @@
-export * from './Navbar.tsx';
-export * from './Hero.tsx';
+export * from './Navbar';
+export * from './Hero';
+export * from './Cocktails';
